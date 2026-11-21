@@ -14,14 +14,14 @@
 | **FinLedger** | Finance manager with a Claude/MCP agent that turns statements into a verified ledger. Totals must reconcile or the document is quarantined. | [Showcase](https://github.com/SohaibAShah/finledger-showcase) |
 | **Stationery Store** | Retail management app in **daily production** at a real shop: sales, stock, loans, backups, 428 automated tests. | [Showcase + video](https://github.com/SohaibAShah/stationery-store-showcase) |
 | **Wine Quality on AWS** | End-to-end ML pipeline. GitHub Actions builds a Docker image, pushes it to Amazon ECR and deploys it on EC2. | [Code](https://github.com/SohaibAShah/End-2-End-WineQualityPrediction-AWS) |
-| **Kidney Disease MLOps** | VGG16 transfer-learning classifier built as a reproducible MLflow + DVC pipeline. | [Code](https://github.com/SohaibAShah/E2E-Kidney-Disease-Classification-MLflow-DVC-AWS) |
+| **Kidney Disease Classifier** | VGG16 transfer-learning classifier in a modular, config-driven TensorFlow pipeline (work in progress). | [Code](https://github.com/SohaibAShah/E2E-Kidney-Disease-Classification-MLflow-DVC-AWS) |
 
 ### 🛠️ What I work with
 
 - **Frontend:** React · TypeScript · JavaScript · Vite · HTML/CSS
 - **Backend & desktop:** Python · Node.js · Electron · SQLite · PyWebView · FastAPI
 - **AI:** Claude API · MCP servers · LLM agents with guardrails · OCR & document extraction · PyTorch
-- **Cloud & MLOps:** Vercel · AWS (EC2, ECR) · Docker · GitHub Actions · MLflow · DVC
+- **Cloud & DevOps:** Vercel · AWS (EC2, ECR, IAM) · Docker · GitHub Actions
 - **Quality:** Vitest · Playwright · pytest
 - **Daily tools:** Claude Code · GitHub · Git
 
