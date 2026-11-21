@@ -14,7 +14,7 @@
 | **FinLedger** | Finance manager with a Claude/MCP agent that turns statements into a verified ledger. Totals must reconcile or the document is quarantined. | [Showcase](https://github.com/SohaibAShah/finledger-showcase) |
 | **Stationery Store** | Retail management app in **daily production** at a real shop: sales, stock, loans, backups, 428 automated tests. | [Showcase + video](https://github.com/SohaibAShah/stationery-store-showcase) |
 | **Wine Quality on AWS** | End-to-end ML pipeline. GitHub Actions builds a Docker image, pushes it to Amazon ECR and deploys it on EC2. | [Code](https://github.com/SohaibAShah/End-2-End-WineQualityPrediction-AWS) |
-| **Kidney Disease Classifier** | VGG16 transfer-learning classifier in a modular, config-driven TensorFlow pipeline (work in progress). | [Code](https://github.com/SohaibAShah/E2E-Kidney-Disease-Classification-MLflow-DVC-AWS) |
+| **Kidney Disease Classifier** | VGG16 transfer-learning classifier in a modular, config-driven TensorFlow pipeline (work in progress). | [Code](https://github.com/SohaibAShah/Kidney-Disease-Classification-VGG16) |
 
 ### 🛠️ What I work with
 
